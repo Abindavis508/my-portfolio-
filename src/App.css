@@ -88,6 +88,10 @@ section {
   color: #22d3ee;
 }
 
+#aboutID{
+  padding: 20px;
+}
+
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
